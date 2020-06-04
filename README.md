@@ -2,9 +2,11 @@
 
 ## URL Links
 
-  1) GitHub: https://github.com/usualketchup/FitnessTracker
+  GitHub: https://github.com/usualketchup/FitnessTracker
 
-  2) Heroku: https://ancient-shore-12891.herokuapp.com/
+  Heroku: https://ancient-shore-12891.herokuapp.com/
+
+  Heroku Functionality: https://drive.google.com/file/d/1SEVKC15b8lHyiEkLwDkEKJvtcGkSaenJ/view
 
 ## Description
 
@@ -17,13 +19,6 @@
    selects the 'Add Exercise' option, the browser will also notify, but the user must click on the Dashboard in the navbar, which will 
    take the user to a statistics page that contains charts/graphs based on inputs that the user typed in. From here, the user can also
    click the 'Fitness Tracker' in the navbar, which gives the Home page with the 'Last Workout' info given.  
-
-* The fitness tracker was made through Javascript, and it follows the MVC paradigm for easier access and 
-  work-flow for others that wants to see the code. There are many Javascript index.js files that are separated in different folders,
-  and they overall contain variables (const/let), async & await functions, try/catch blocks, arrays/objects, require/module.exports, 
-  destructuring variables and schemas. In addition, npm installation was used in order to install express for the server, mongoose to 
-  create the MongoDB schemas and to provide a connection to it, and ESLint as a dev dependency to encourage good code syntax/standards.
-  The application is fully deployed in Heroku with a connected MongoDB database due to mLab add-on.
 
 ## Technologies
 
@@ -38,5 +33,7 @@
 
 ## Challenges
 
-* This fitness tracker took a lot of time to figure out on my own and I eventually learned how to utilize MongoDB properly thanks to going over some class activities and working through each problem that popped up.
+* This fitness tracker took a lot of time to figure out and I eventually learned how to utilize MongoDB properly thanks to going over some class activities and working through each problem that popped up.
+
+* I also learned how to connect a Mongo database by using the Heroku extension mLab mongolab. At first, that was quite confusing but once I read more documentation and went over the class lecture videos again I learned how to work it out quite well!
 
