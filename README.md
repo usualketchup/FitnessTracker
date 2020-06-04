@@ -4,7 +4,7 @@
 
   1) GitHub: https://github.com/usualketchup/FitnessTracker
 
-  2) Heroku: 
+  2) Heroku: https://ancient-shore-12891.herokuapp.com/
 
 ## Description
 
